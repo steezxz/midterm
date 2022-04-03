@@ -1,0 +1,110 @@
+*{
+  margin:0;
+  padding:0;
+  list-style:none;
+  text-decoration: none;
+}
+
+header{
+    border: 0px solid rgb(255, 255, 255);
+    max-height: 69px;
+    width: 1700px;
+}
+
+body{
+    background: rgb(0, 0, 0);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sidebar-one, #sidebar-two, #sidebar-three{
+  border:5px rgb(255, 255, 255) solid;
+  width: 30%;
+}
+
+footer{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.logo{
+  text-align: center;
+}
+
+h2{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 30px;
+  font-size: 38px;
+  text-align: center;
+  text-overflow: ellipsis;
+}
+
+h1{
+  font-family: cursive;
+  padding: 30px;
+  font-size: 38px;
+  text-align: center;
+  text-overflow: ellipsis;
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  float: right;
+  text-align: center;
+  margin: 0px;
+  font-size: large;
+  margin-bottom: 90px;
+  margin-top: 4px;
+}
+
+.aboutus{
+  position: relative;
+  top: 6px;
+  left: 365px;
+}
+
+.forum{
+  position: relative;
+  bottom: 67px;
+  left: 605px;
+}
+
+.home{
+  position:relative;
+  left: 843px;
+  bottom: 140px;
+}
+
+.goals{
+  position: relative;
+  left: 1080px;
+  bottom: 213px;
+}
+
+.signin{
+  position: relative;
+  left: 1320px;
+  bottom: 286px;
+}
+
+.contactus{
+  position: fixed;
+  left: 1686px;
+  top: 0px;
+  font-size: 40px;
+}
+
+.moneybag{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.controller{
+  text-align: center;
+  margin-bottom: 75px;
+}
+
+.gameconsoles{
+  position: relative;
+  left: 494px;
+}
